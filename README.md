@@ -6,7 +6,7 @@ Welcome to Shiksha UG/PG, your platform for flexible and affordable higher educa
 
 To get started with Shiksha UG/PG, follow these steps:
 
-1. **Sign Up**: Create an account on our platform by visiting [shiksha.com](https://www.shiksha.com).
+1. **Sign Up**: Create an account on our platform by visiting [shiksha.com](https://shikhsha-ui.vercel.app/).
    
 2. **Explore Courses**: Browse through our wide range of undergraduate and postgraduate courses to find the one that best fits your interests and goals.
 
